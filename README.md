@@ -8,7 +8,7 @@ I'm a CSE'22 Graduate Aspiring to become a Blockchain Dev.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vishwanath.veerni@gmail.com](mailto:vishwanath.veerni@gmail.com)
-* 🧠  I'm learning M.E.R.N Stack
+* 🧠  I'm currently learning Blockchain/Smart Contracts Development
 
 ### Skills
 
